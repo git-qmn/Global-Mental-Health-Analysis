@@ -13,7 +13,7 @@ The project utilizes global mental health datasets, which include details such a
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/git-qmn/Global-Mental-Health-Analysis.git
 ```
 2. Install dependencies:
 ```bash
