@@ -15,11 +15,7 @@ The project utilizes global mental health datasets, which include details such a
 ```bash
 git clone https://github.com/git-qmn/Global-Mental-Health-Analysis.git
 ```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Run the Jupyter Notebook:
+2. Run the Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
