@@ -1,15 +1,47 @@
-# Global-Mental-Health-Analysis
+# Global Mental Health Analysis
 
-Our team members include:
+## Overview
+This project uses data science techniques to analyze global mental health trends using various datasets. It explores patterns, distributions, and key insights to understand mental health issues on a worldwide scale.
 
-Donghyeon Na (Project Manager)
+## Course Information
+- **Course**: BA775 - Business Analytics Toolbox, Master of Science in Business Analytics, Boston University  
+- **Team Members**: Quan Nguyen, Donghyeon Na, Glenn Castellino, Hyunjin Yu, Yufei Shang, Raskirt Bhatia
 
-Glenn Castellino
+## Dataset
+The project utilizes global mental health datasets, which include details such as prevalence rates, demographic factors, and socioeconomic indicators.
 
-Hyunjin Yu
+## Installation
+1. Clone the repository:
+```bash
+git clone <repository_url>
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Run the Jupyter Notebook:
+```bash
+jupyter notebook
+```
 
-Quan Nguyen
+## Usage
+- Open the Jupyter Notebook and execute cells step by step.
+- Modify parameters in analysis sections to explore different aspects of the data.
 
-Yufei Shang
+## Methodology
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Clustering techniques for pattern recognition
+- Visualization of mental health trends
 
-Raskirt Bhatia
+## Contribution
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request with detailed documentation.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For questions or suggestions, reach out via email at [qmn@bu.edu](mailto:qmn@bu.edu).
