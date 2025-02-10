@@ -34,6 +34,10 @@ jupyter notebook
 - Clustering techniques for pattern recognition
 - Visualization of mental health trends
 
+## Dashboard
+View our interactive Tableau Public dashboard here:  
+[Global Mental Health Analysis Dashboard](https://public.tableau.com/views/GlobalMentalHealthInsights2021-2024/GlobalMentalHealthAnalysis1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Contribution
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
@@ -45,3 +49,9 @@ This project is licensed under the MIT License.
 
 ## Contact
 For questions or suggestions, reach out via email at [qmn@bu.edu](mailto:qmn@bu.edu).
+
+
+
+
+
+
